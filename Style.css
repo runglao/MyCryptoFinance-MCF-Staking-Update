@@ -170,12 +170,12 @@ main {
 }
 
 .app-box h2 { 
-    color: #000000; 
+    color: #1b1b1a;
     /* margin-bottom: 30px;  */
 }
 
 .app-box h4 {
-    color: #000000;
+    color: #1b1b1a;
 }
 
 .app-box p { 
@@ -220,7 +220,7 @@ main {
     padding-top: 25px; 
 }
 
-.calculator h4 { margin-top: 0; color: #000000; }
+.calculator h4 { margin-top: 0; color: #d86233; }
 
 .data-display p { margin: 5px 0; font-size: 0.9em; }
 
@@ -290,5 +290,6 @@ footer {
     }
 
 }
+
 
 
