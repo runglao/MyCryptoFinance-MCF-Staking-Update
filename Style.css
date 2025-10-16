@@ -76,7 +76,7 @@ header h1 {
 .content {
     padding: 0 18px;
     border-radius: 5px;
-    background-color: #23e93d31;
+    background-color: #1bc57e48;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out; /* Плавное открытие/закрытие */
@@ -290,3 +290,4 @@ footer {
     }
 
 }
+
